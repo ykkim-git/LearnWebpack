@@ -1,0 +1,10 @@
+바벨 ?
+js의 최신 문법들을 최대한 많은 브라우저들이 호환할 수 있도록 변환해주는 도구
+
+in babelsj.io
+const sum = (a, b) => a + b;
+---->
+
+var sum = functino sum(a, b) {
+    return a + b;
+}
